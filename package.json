@@ -1,0 +1,29 @@
+{
+  "name": "vue3-axios-plugin",
+  "version": "3.0.0",
+  "description": "VueJS 3 Axios registration Plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codata-gedes/vue3-axios-plugin.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "axios",
+    "plugin",
+    "codata"
+  ],
+  "author": "Michel Risucci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codata-gedes/vue3-axios-plugin/issues"
+  },
+  "homepage": "https://github.com/codata-gedes/vue3-axios-plugin#readme",
+  "devDependencies": {
+    "axios": "^1.4.0",
+    "keycloak-js": "^21.1.1",
+    "typescript": "^5.0.4",
+    "vue": "^3.2.47"
+  }
+}
